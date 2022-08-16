@@ -1,0 +1,38 @@
+
+<div class="field is-horizontal">
+  <div class="field-label is-normal">
+    <label class="label">Subdomain</label>
+  </div>
+  <div class="field-body">
+    <div class="field has-addons">
+      <div class="control">
+        <input
+          class="input"
+          type="text"
+          regex="[\w-]+"
+          placeholder="Pack123"
+          id="google-sites-subdomain"
+        />
+      </div>
+
+      <div class="control">
+        <a class="button is-primary" id="select-subdomain"> Go </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document
+    .getElementById("select-subdomain")
+    .addEventListener("click", function (evt) {
+      window.open(
+        `https://www.google.com/webmasters/verification/verification?domain=${
+          document.getElementById("google-sites-subdomain").value
+        }.cubpack.org`,
+        "_blank"
+      );
+      evt.preventDefault();
+      evt.stopPropagation();
+    });
+</script>

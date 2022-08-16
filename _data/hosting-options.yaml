@@ -1,0 +1,19 @@
+style: is-light
+height: is-medium
+items:
+  - title: Google Sites
+    icon: fa-google
+    icon_brand: true
+    description: >
+      Google Sites offers an easy page editing experience with flexible templates
+      and limited customization options.
+    call_to_action_name: Setup for Google Sites
+    call_to_action_link: /setup/#google-sites
+  - title: Github Pages
+    icon: fa-github
+    icon_brand: true
+    description: >
+      Complete customization for packs with technical website maintainers.
+      You can completely customize the look and feel but does not include page editor.
+    call_to_action_name: Setup for Github Pages
+    call_to_action_link: /setup/#github-pages

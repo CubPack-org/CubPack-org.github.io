@@ -1,0 +1,13 @@
+- name: About
+  link: /about/
+- name: Setup
+  link: /setup/
+  dropdown: 
+    - name: Free Hosting Options
+      link: /free-hosting/
+    - name: Request a Subdomain
+      link: /request-subdomain/
+- name: Resources
+  link: /resources/
+- name: Contact
+  link: /contact/

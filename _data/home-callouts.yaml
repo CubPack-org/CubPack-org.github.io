@@ -1,0 +1,18 @@
+style: is-light
+height: is-medium
+items:
+  - title: Free!
+    icon: fa-dollar-sign
+    description: >
+      Host a cub pack website for free with a free subdomain and one of the many
+      popular free hosting options.
+  - title: Works with Google Sites
+    icon: fa-google
+    icon_brand: true
+    description: >
+      Create an easy to edit site with Google sites on your own custom subdomain.
+
+  - title: No Hassle
+    icon: fa-hammer
+    description: >
+      Easy setup + no maintenance subdomains.
