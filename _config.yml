@@ -1,12 +1,12 @@
-
 # Site settings
 
 title: CubPack.org
 
 email: hello@cubpack.org
-description: >- 
+description: >-
   Free subdomains for cub packs. Get yourpack.cubpack.org for free
-url: "https://www.cubpack.org" 
+url: "https://www.cubpack.org"
+baseurl: ""
 
 # Theme Settings
 comments: false
@@ -16,7 +16,6 @@ favicon: /favicon.ico
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - github-pages
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
