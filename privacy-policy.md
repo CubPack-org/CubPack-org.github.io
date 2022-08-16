@@ -34,7 +34,7 @@ This privacy notice for CubPack.org ("**Company**," "**we**," "**us**," or "**ou
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#privacyrights) to learn more.
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by filling out our data subject request form available here: [https://www.cubpack.org/contact](https://www.cubpack.org/contact), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by filling out our data subject request form available here: [https://www.cubpack.org/contact.html](https://www.cubpack.org/contact.html), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what CubPack.org does with any information we collect? Click [here](#toc) to review the notice in full.
 
@@ -254,7 +254,7 @@ We may also collect other personal information outside of these categories throu
 
 More information about our data collection and sharing practices can be found in this privacy notice.
 
-You may contact us by email at hello@cubpack.org, by visiting [https://www.cubpack.org/contact](https://www.cubpack.org/contact), or by referring to the contact details at the bottom of this document.
+You may contact us by email at hello@cubpack.org, by visiting [https://www.cubpack.org/contact.html](https://www.cubpack.org/contact.html), or by referring to the contact details at the bottom of this document.
 
 If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -312,7 +312,7 @@ Other privacy rights
 
 *   You may request to opt out from future selling of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at hello@cubpack.org, by visiting [https://www.cubpack.org/contact](https://www.cubpack.org/contact), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at hello@cubpack.org, by visiting [https://www.cubpack.org/contact.html](https://www.cubpack.org/contact.html), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 **10\. DO WE MAKE UPDATES TO THIS NOTICE?**
 
@@ -322,10 +322,10 @@ We may update this privacy notice from time to time. The updated version will be
 
 **11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
-If you have questions or comments about this notice, you may contact us at: [https://www.cubpack.org/contact](https://www.cubpack.org/contact)
+If you have questions or comments about this notice, you may contact us at: [https://www.cubpack.org/contact.html](https://www.cubpack.org/contact.html)
 
 **12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [https://www.cubpack.org/contact](https://www.cubpack.org/contact).
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [https://www.cubpack.org/contact.html](https://www.cubpack.org/contact.html).
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).

@@ -96,7 +96,7 @@ We reserve the right to correct any errors or mistakes in pricing, even if we ha
 
 All purchases are non-refundable. You can cancel your subscription at any time by contacting us using the contact information provided below. Your cancellation will take effect at the end of the current paid term.
 
-If you are unsatisfied with our services, please contact us at [https://www.cubpack.org/contact](https://www.cubpack.org/contact).
+If you are unsatisfied with our services, please contact us at [https://www.cubpack.org/contact.html](https://www.cubpack.org/contact.html).
 
 **6\. PROHIBITED ACTIVITIES**
 
@@ -239,6 +239,6 @@ In order to resolve a complaint regarding the Site or to receive further informa
 
 **CubPack.org**
 
-[https://www.cubpack.org/contact](https://www.cubpack.org/contact)
+[https://www.cubpack.org/contact.html](https://www.cubpack.org/contact.html)
 
 These terms of use were created using Termly's [Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/).

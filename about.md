@@ -18,11 +18,11 @@ Rather than registering _just_ our domain, it seemed a better idea to create a g
 
 ### How do I get my Pack Subdomain?
 
-Head over to the [Request a Subdomain](/request-subdomain/) page and fill out the form
+Head over to the [Request a Subdomain](/request-subdomain.html) page and fill out the form
 
 ### Do you provide website hosting?
 
-Nope, however we integrate with [free hosting options](/free-hosting/).
+Nope, however we integrate with [free hosting options](/free-hosting.html).
 
 ### How much does this cost?
 

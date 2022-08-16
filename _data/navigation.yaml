@@ -1,13 +1,13 @@
 - name: About
-  link: /about/
+  link: /about.html
 - name: Setup
-  link: /setup/
+  link: /setup.html
   dropdown: 
     - name: Free Hosting Options
-      link: /free-hosting/
+      link: /free-hosting.html
     - name: Request a Subdomain
-      link: /request-subdomain/
+      link: /request-subdomain.html
 - name: Resources
-  link: /resources/
+  link: /resources.html
 - name: Contact
-  link: /contact/
+  link: /contact.html

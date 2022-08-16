@@ -14,10 +14,10 @@ Having a custom domain makes your pack's website look more official and easier t
 
 You already have enough to deal with running a pack, why add DNS to the list? With cubpack.org you can have your own _mypack_.cubpack.org subdomain free. 
 
-<a class="button has-background-warning is-text-dark" href="/setup/">Start Setup</a>
+<a class="button has-background-warning is-text-dark" href="/setup.html">Start Setup</a>
 
 ## What about hosting?
 
 We only offer free subdomains at cubpack.org, but there are a number of amazing free website tools available which you can use to host the website on your free subdomain.
 
-<a class="button has-background-warning is-text-dark" href="/setup/">Free Hosting Options</a>
+<a class="button has-background-warning is-text-dark" href="/free-hosting.html">Free Hosting Options</a>
