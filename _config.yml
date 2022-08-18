@@ -7,6 +7,8 @@ description: >-
   Free subdomains for cub packs. Get yourpack.cubpack.org for free
 url: "https://www.cubpack.org"
 baseurl: ""
+plugins:
+  - jekyll-sitemap
 
 # Theme Settings
 comments: false

@@ -75,6 +75,7 @@ PLATFORMS
 
 DEPENDENCIES
   bulma-clean-theme
+  jekyll-sitemap
 
 BUNDLED WITH
    2.3.15
