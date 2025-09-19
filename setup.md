@@ -2,8 +2,10 @@
 title: Setup
 layout: page
 hero_image: /assets/img/setup-hero.jpg
+
 hero_darken: true
 callouts: hosting-options
+
 hero_height: is-small
 ---
 
@@ -18,20 +20,24 @@ Google Sites supports custom domains / subdomains over https. To set up a custom
 
     ![Verifying Domain Ownership](/assets/img/google-sites-verification.png)
 
-- Submit the [subdomain request.html](/request-subdomain.html), including the Google Sites Verification code
+
+- Submit the [subdomain request](/request-subdomain.html), including the Google Sites Verification code
 
 - Once you recieve an email that the subdomain is setup, return to the Google Verification Screen
 
 -  Select Settings (the gear icon) then _Custom domains_ then _Start setup_:
 
     ![Start Google Sites Setup](/assets/img/google-sites-settings.png)
+
 - Select _Use a domain from a third party_
 - Replace `www` with the subdomain you want and `yourdomain.com` with `cubpack.org` then click _Next_ to complete the process.
 
-    ![Start Google Sites Custom Domain](/assets/img/google-sites-third-party.png)
 
+
+    ![Start Google Sites Custom Domain](/assets/img/google-sites-third-party.png
 
 ## Github Pages
+
 
 Github Pages supports custom domains / subdomains over https. To set up a custom subdomain from cubscouts.org with Github Pages, do the following:
 
