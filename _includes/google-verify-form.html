@@ -21,15 +21,12 @@
     </div>
   </div>
 </div>
-
 <script>
   document
     .getElementById("select-subdomain")
     .addEventListener("click", function (evt) {
       window.open(
-        `https://www.google.com/webmasters/verification/verification?domain=${
-          document.getElementById("google-sites-subdomain").value
-        }.cubpack.org`,
+        `https://search.google.com/search-console?resource_id=sc-domain:${document.getElementById("google-sites-subdomain").value}.cubpack.org`,
         "_blank"
       );
       evt.preventDefault();
